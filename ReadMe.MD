@@ -1,4 +1,4 @@
-### VCS-Driven Workflow
+### ain.VCS-Driven Workflow
 
 **Steps to Leverage VCS Driven Workflow**
 
@@ -26,4 +26,12 @@
 
 ![](assets/20241024_104128_image.png)
 
-8.
+8. We will end up creating a workspace.
+
+![](assets/20241024_104254_image.png)
+
+9. Now, let's create the `main.tf`, `provider.tf`, and `variables.tf` files.
+10. Now, apply variables set to the **VCSDrivenWorkflow**  wrokflow.
+
+
+![](assets/20241024_105147_image.png)
