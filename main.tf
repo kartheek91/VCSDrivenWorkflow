@@ -16,4 +16,6 @@ module "storageaccount" {
   location = var.location
   resource_group_name = azurerm_resource_group.rg.name
   storage_account_name = var.storage_account_name
+  project = var.project
+  owner = var.owner
 }
