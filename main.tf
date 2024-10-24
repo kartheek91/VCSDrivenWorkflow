@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "rg" {
   location = var.location
 
   tags = {
-    # project = var.project
+    project = var.project
     owner = var.owner
   }
 }

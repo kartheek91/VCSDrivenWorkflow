@@ -1,4 +1,4 @@
-### ain.VCS-Driven Workflow
+### 21ain.VCS-Driven Workflow
 
 **Steps to Leverage VCS Driven Workflow**
 
@@ -33,5 +33,17 @@
 9. Now, let's create the `main.tf`, `provider.tf`, and `variables.tf` files.
 10. Now, apply variables set to the **VCSDrivenWorkflow**  wrokflow.
 
-
 ![](assets/20241024_105147_image.png)
+
+11. Now, the plan will be triggered automatically.
+
+![](assets/20241024_105902_image.png)
+
+12. Now , click on confirm & apply.
+
+![](assets/20241024_110026_image.png)
+
+13. Now, Apply is completed![](assets/20241024_110134_image.png)
+14. In the azure portal
+
+![](assets/20241024_110310_image.png)
