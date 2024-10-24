@@ -22,3 +22,6 @@ variable "owner" {
 variable "project" {
   type = string
 }
+variable "storage_account_name" {
+  type = string
+}
