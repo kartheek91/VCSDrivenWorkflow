@@ -22,6 +22,8 @@ variable "owner" {
 variable "project" {
   type = string
 }
-variable "storage_account_name" {
-  type = string
+
+# Working with Private Modules
+# variable "storage_account_name" {
+#   type = string
 }
